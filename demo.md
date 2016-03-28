@@ -48,6 +48,11 @@
   sudo apt-get install openssh-server
   ```
 
+4. Test your SSH connection
+  ```
+  ssh <username>@127.0.0.1
+  ```
+
 #### 3. Install Ansible
 
 ```
