@@ -168,6 +168,10 @@ To run Playbook : `$ansible-playbook -b nginx.yml`
       - name: Start Nginx
         service: name=nginx state=started
 
+## Demo Time
+
+  [Do it yourself](https://github.com/gau1991/ansible-beginners/blob/gh-pages/demo.md)
+
 ## Playbook More YAML
 
  - Vars
