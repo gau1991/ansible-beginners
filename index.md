@@ -172,26 +172,6 @@ To run Playbook : `$ansible-playbook -b nginx.yml`
 
   [Do it yourself](https://github.com/gau1991/ansible-beginners/blob/gh-pages/demo.md)
 
-## Playbook More YAML
-
- - Vars
- - Tasks
- - Handlers
- - Roles
- - Files
- - Meta
- - Templates
-
-## Playbook Directories
-
- - Group/Host Vars
- - Roles
- - Inventory Files
- - Libraries
- - Plugins
- - Playbook Files
-
-
 ## References
 
 1. http://docs.ansible.com/ansible
